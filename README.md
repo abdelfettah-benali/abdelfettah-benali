@@ -11,7 +11,7 @@
 <p align="center">Ingénierie de la donnée &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Business Intelligence</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdelfettah_ben_ali">
+  <a href="https://www.linkedin.com/in/abdelfettah-ben-ali">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:abdelfettah.benali0@gmail.com">
@@ -126,12 +126,11 @@ transformer des données brutes en solutions fiables, traçables et actionnables
 
 ## Statistiques GitHub
 
-<!-- ⚠️ Remplacez [votre-pseudo-github] aux 3 endroits ci-dessous -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[votre-pseudo-github]&show_icons=true&hide_border=true&count_private=true" alt="Stats GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[votre-pseudo-github]&layout=compact&hide_border=true&langs_count=8" alt="Langages les plus utilisés" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdelfettah-benali&theme=default" alt="Stats GitHub" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdelfettah-benali&theme=default" alt="Langages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[votre-pseudo-github]&hide_border=true" alt="Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=abdelfettah-benali&hide_border=true" alt="Streak" height="165"/>
 </p>
