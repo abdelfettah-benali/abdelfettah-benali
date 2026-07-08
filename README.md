@@ -1,13 +1,6 @@
-<!-- =========================================================
-     README de profil GitHub — Abdelfettah Ben Ali
-     À placer dans un dépôt PUBLIC nommé EXACTEMENT comme votre
-     pseudo GitHub (ex. : abdelfettahbenali/abdelfettahbenali).
-     ➜ Remplacez [votre-pseudo-github] dans la section Statistiques.
-     ➜ Vérifiez l'URL LinkedIn ci-dessous.
-     ========================================================= -->
 
 <h1 align="center">Abdelfettah Ben Ali</h1>
-<p align="center"><strong>Data Engineer · Data Scientist · Data Analyst</strong></p>
+<p align="center"><strong>Data Engineer · Business Intelligence Engineer · Data Analyst</strong></p>
 <p align="center">Ingénierie de la donnée &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Business Intelligence</p>
 
 <p align="center">
