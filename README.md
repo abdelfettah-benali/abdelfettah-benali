@@ -1,6 +1,6 @@
 
 <h1 align="center">Abdelfettah Ben Ali</h1>
-<p align="center"><strong>Data Engineer · Business Intelligence Engineer · Data Analyst</strong></p>
+<p align="center"><strong>Data and IA Engineer </strong></p>
 <p align="center">Ingénierie de la donnée &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Business Intelligence</p>
 
 <p align="center">
